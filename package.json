@@ -1,0 +1,24 @@
+{
+  "name": "mogo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx parcel index.html --open"
+  },
+  "keywords": [
+    "npm",
+    "sass",
+    "parcel",
+    "nodejs"
+  ],
+  "author": "Anya Alesik <nayavii17@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "swiper": "^8.4.4"
+  }
+}
